@@ -13,6 +13,6 @@ A Python GUI tool to detect illegal or sensitive Chinese words — including hom
 
 ## 🔸 How to Use
 
-1. 下載打包好的 `.exe` 執行檔（請見 [Releases]((https://github.com/slhs1121505/ChineseIllegalWordChecker/releases/tag/yogurt)) 頁面）。
+1. 下載打包好的 `.exe` 執行檔（請見 [Releases](https://github.com/slhs1121505/ChineseIllegalWordChecker/releases/tag/yogurt) 頁面）。
 2. 雙擊開啟即可使用，無需安裝 Python 或任何套件。
 3. 輸入想檢查的中文句子，按下檢查按鈕。
